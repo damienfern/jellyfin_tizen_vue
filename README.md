@@ -1,4 +1,4 @@
-# jellyfin_tizen_vue
+# Twitch_tizen_vue
 
 ## Project setup
 ```
